@@ -16,7 +16,6 @@
 
 ## 🚀 Projects I'm Working On
 
-> _Update me with your current projects!_
 
 - 🛠️ **Project 1** — Chess Best Move Extenstion.
 - 🛠️ **Project 2** — Streambert Andriod Port.
